@@ -4,7 +4,7 @@
  
  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying **Computer Science of Engineering from Dayananda Sagar College of Engineering. (2019-2023)**
+- 🔭 I’m currently studying **Computer Science of Engineering from Dayananda Sagar College of Engineering. (2021-2024)**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
