@@ -19,5 +19,4 @@
 <h2> Github Stats</h2>  
   
    ![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=shashankappu&show_icons=true&theme=tokyonight)  ![Shashank's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashankappu&theme=tokyonight) 
-   
-<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
+ 
