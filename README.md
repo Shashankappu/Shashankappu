@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for **a challenging career in the Software Engineering domain and currently interning at Harman International as an Android Developer.**
+- 🤝 I’m looking for **a challenging career in the Software Engineering domain and currently Interning at Harman International as an Android Developer.**
 
 - 📫 How to reach me **shashanksp1512@gmail.com**
 
