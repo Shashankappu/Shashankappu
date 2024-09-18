@@ -4,11 +4,11 @@
  
  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying **Computer Science of Engineering from Dayananda Sagar College of Engineering. (2020-2024)**
+- 🔭 I am a **Computer Science Graduate from Dayananda Sagar College of Engineering. (2020-2024)**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for **a challenging career in the Software Engineering domain.**
+- 🤝 I’m looking for **a challenging career in the Software Engineering domain and currently interning at Harman International as an Android Developer.**
 
 - 📫 How to reach me **shashanksp1512@gmail.com**
 
